@@ -7,7 +7,7 @@
 
 **Name :** PRASIDHA A  
 **Reg. No :** 212224230204  
-**Slot No :** ___________________
+**Slot No :** T2-J6
 
 ---
 
@@ -289,9 +289,6 @@ plt.show()
 
 ## 1. Original Grayscale Image
 
-```text
-output/grayscale_original.png
-```
 
 <p align="center">
 <img width="537" height="378" alt="image" src="https://github.com/user-attachments/assets/6d351694-995a-4698-97e5-82fee834e41a" />
@@ -301,9 +298,6 @@ output/grayscale_original.png
 
 ## 2. Histogram of Original Grayscale Image
 
-```text
-output/grayscale_histogram.png
-```
 
 <p align="center">
 <img width="773" height="496" alt="image" src="https://github.com/user-attachments/assets/86b805ad-d4bf-4a6c-98a1-974e2386635d" />
@@ -313,9 +307,6 @@ output/grayscale_histogram.png
 
 ## 3. Equalized Grayscale Image
 
-```text
-output/grayscale_equalized.png
-```
 
 <p align="center">
 <img width="967" height="392" alt="image" src="https://github.com/user-attachments/assets/32ca635f-5587-4d86-ba1f-49bb3880412a" />
@@ -325,11 +316,6 @@ output/grayscale_equalized.png
 
 ## 4. Histogram of Equalized Grayscale Image
 
-### Paste Output Image Here
-
-```text
-output/grayscale_equalized_histogram.png
-```
 
 <p align="center">
 <img width="660" height="463" alt="image" src="https://github.com/user-attachments/assets/b40fd4ec-b7f5-4f55-997b-216f8cbc0c77" />
@@ -339,11 +325,6 @@ output/grayscale_equalized_histogram.png
 
 ## 5. Original Color Image
 
-### Paste Output Image Here
-
-```text
-output/color_original.png
-```
 
 <p align="center">
 <img width="877" height="657" alt="image" src="https://github.com/user-attachments/assets/a2d27bcb-fd19-4200-95e3-f02562b9b814" />
@@ -353,11 +334,6 @@ output/color_original.png
 
 ## 6. Histogram of Original Color Image
 
-### Paste Output Image Here
-
-```text
-output/color_histogram.png
-```
 
 <p align="center">
 <img width="779" height="590" alt="image" src="https://github.com/user-attachments/assets/4f60be93-32f5-466e-b281-44b8da793c9f" />
@@ -367,11 +343,6 @@ output/color_histogram.png
 
 ## 7. Enhanced Color Image
 
-### Paste Output Image Here
-
-```text
-output/enhanced_color.png
-```
 
 <p align="center">
 <img width="763" height="586" alt="image" src="https://github.com/user-attachments/assets/c65554bb-cc5f-4ea2-8c0f-139a5706c68b" />
@@ -381,11 +352,6 @@ output/enhanced_color.png
 
 ## 8. Histogram of Enhanced Color Image
 
-### Paste Output Image Here
-
-```text
-output/enhanced_histogram.png
-```
 
 <p align="center">
 <img width="862" height="668" alt="image" src="https://github.com/user-attachments/assets/775a4728-375d-4862-8fcf-2e2596f1e67a" />
@@ -438,7 +404,3 @@ By completing this experiment, we learn:
 |------|----------------|
 | PRASIDHA A | 212224230204 |
 
-
-# License
-
-This project is developed for educational and academic purposes.
